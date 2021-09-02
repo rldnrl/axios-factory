@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2015", "ESNext", "DOM", "WebWorker"],
+    "module": "commonjs",
+    "outDir": "dist",
+    "sourceMap": true,
+    "strict": true,
+    "target": "ES6",
+    "moduleResolution": "Node",
+    "allowJs": true,
+    "esModuleInterop": true
+  },
+  "include": ["src"],
+}
